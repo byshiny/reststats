@@ -2,6 +2,8 @@ from pprint import pprint
 import json
 import os
 import pandas
+from pandas.io.json import json_normalize
+""" directory to run: /Users/byungjooshin/Desktop/wip/reviewstats/processing """
 class ReviewProcessor:
   response_directory = "../response_files"
   df = None
@@ -19,11 +21,15 @@ class ReviewProcessor:
     with open(filename) as f:
         data = json.load(f)
         
-    pprint(data)
-    with open("test_pretty", "wt") as out:
-      pprint(data, stream=out)
+    # should probably use this for formatting
+    # pprint(data)
+    # with open("test_pretty", "wt") as out:
+    #   pprint(data, stream=out)
   def import_datafile_to_pandas(self, filename):
     data = json.loads(filename)
+    json_normalize(data)
+
+
 
 # print("hello")
 reviewprocessor = ReviewProcessor()

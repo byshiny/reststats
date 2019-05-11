@@ -8,7 +8,7 @@
                             'isAd': False,
                             'name': 'Junior’s Restaurant',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 1579,
+                            'numReviews': 1576,
                             'photoPageUrl': '/biz_photos/juniors-restaurant-brooklyn-4?select=Uvx5Psf1IhBE8LW_Kw7Qbg',
                             'photoSrc': 'https://s3-media4.fl.yelpcdn.com/bphoto/Uvx5Psf1IhBE8LW_Kw7Qbg/90s.jpg',
                             'photoSrcSet': 'https://s3-media4.fl.yelpcdn.com/bphoto/Uvx5Psf1IhBE8LW_Kw7Qbg/180s.jpg '
@@ -22,13 +22,13 @@
                             'showRecommended': False},
  '1QRgtASQQoXWm7KAqkW8zw': {'addressLines': ['226 Bay St',
                                              'Staten Island, NY 10301'],
-                            'businessUrl': '/adredir?ad_business_id=n18DpCYhaI1WVSdBZH-wGA&amp;campaign_id=mKLkzETexqRnQLywq-1tgA&amp;click_origin=search_results&amp;placement=above_search&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fchez-adja-african-restaurant-staten-island&amp;request_id=f1d0c410b645d488&amp;signature=6b797436959a97318e79f86588384ca91e8ca8a41cd1d2531b38e9922b7c5b71&amp;slot=0',
+                            'businessUrl': '/adredir?ad_business_id=n18DpCYhaI1WVSdBZH-wGA&amp;campaign_id=mKLkzETexqRnQLywq-1tgA&amp;click_origin=search_results&amp;placement=above_search&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fchez-adja-african-restaurant-staten-island&amp;request_id=7b01e53659fb5abf&amp;signature=b78c5a8119c3ad2e1c948ba28a3009d8bd51a307fb14f96bb8ddb33a38c3b5e2&amp;slot=0',
                             'categories': [{'title': 'Senegalese',
                                             'url': '/search?cflt=senegalese&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'}],
                             'isAd': True,
                             'name': 'Chez Adja African Restaurant',
                             'neighborhoods': ['Tompkinsville'],
-                            'numReviews': 6,
+                            'numReviews': 7,
                             'photoPageUrl': '/biz_photos/chez-adja-african-restaurant-staten-island?select=qNyBHN-ML00qU6EDYEn1Rg',
                             'photoSrc': 'https://s3-media2.fl.yelpcdn.com/bphoto/qNyBHN-ML00qU6EDYEn1Rg/90s.jpg',
                             'photoSrcSet': 'https://s3-media2.fl.yelpcdn.com/bphoto/qNyBHN-ML00qU6EDYEn1Rg/180s.jpg '
@@ -38,7 +38,7 @@
                                            '1.87x,https://s3-media2.fl.yelpcdn.com/bphoto/qNyBHN-ML00qU6EDYEn1Rg/ls.jpg '
                                            '2.78x,https://s3-media2.fl.yelpcdn.com/bphoto/qNyBHN-ML00qU6EDYEn1Rg/258s.jpg '
                                            '2.87x',
-                            'rating': 3,
+                            'rating': 3.5,
                             'showRecommended': False},
  '35SuoEWmOIouKu6uF6kPjg': {'addressLines': ['30 Dekalb Ave',
                                              'Brooklyn, NY 11201'],
@@ -57,26 +57,6 @@
                                            '1.33x,https://s3-media3.fl.yelpcdn.com/bphoto/O5ysuAAnagVas6f4bERshg/168s.jpg '
                                            '1.87x,https://s3-media3.fl.yelpcdn.com/bphoto/O5ysuAAnagVas6f4bERshg/ls.jpg '
                                            '2.78x,https://s3-media3.fl.yelpcdn.com/bphoto/O5ysuAAnagVas6f4bERshg/258s.jpg '
-                                           '2.87x',
-                            'rating': 4,
-                            'showRecommended': False},
- '4H1FxwC7CVDS_LC2hVWkig': {'addressLines': ['38 Henry St',
-                                             'Brooklyn, NY 11201'],
-                            'businessUrl': '/biz/noodle-pudding-brooklyn?osq=Restaurants',
-                            'categories': [{'title': 'Italian',
-                                            'url': '/search?cflt=italian&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'}],
-                            'isAd': False,
-                            'name': 'Noodle Pudding',
-                            'neighborhoods': ['Brooklyn Heights'],
-                            'numReviews': 544,
-                            'photoPageUrl': '/biz_photos/noodle-pudding-brooklyn?select=o5ygMLdH6f5XVONTb3msMg',
-                            'photoSrc': 'https://s3-media3.fl.yelpcdn.com/bphoto/o5ygMLdH6f5XVONTb3msMg/90s.jpg',
-                            'photoSrcSet': 'https://s3-media3.fl.yelpcdn.com/bphoto/o5ygMLdH6f5XVONTb3msMg/180s.jpg '
-                                           '2.00x,https://s3-media3.fl.yelpcdn.com/bphoto/o5ygMLdH6f5XVONTb3msMg/ms.jpg '
-                                           '1.11x,https://s3-media3.fl.yelpcdn.com/bphoto/o5ygMLdH6f5XVONTb3msMg/120s.jpg '
-                                           '1.33x,https://s3-media3.fl.yelpcdn.com/bphoto/o5ygMLdH6f5XVONTb3msMg/168s.jpg '
-                                           '1.87x,https://s3-media3.fl.yelpcdn.com/bphoto/o5ygMLdH6f5XVONTb3msMg/ls.jpg '
-                                           '2.78x,https://s3-media3.fl.yelpcdn.com/bphoto/o5ygMLdH6f5XVONTb3msMg/258s.jpg '
                                            '2.87x',
                             'rating': 4,
                             'showRecommended': False},
@@ -112,7 +92,7 @@
                             'isAd': False,
                             'name': 'Forno Rosso',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 598,
+                            'numReviews': 600,
                             'photoPageUrl': '/biz_photos/forno-rosso-downtown-brooklyn-2?select=9aKNymymd9out1HSpkLuiA',
                             'photoSrc': 'https://s3-media3.fl.yelpcdn.com/bphoto/9aKNymymd9out1HSpkLuiA/90s.jpg',
                             'photoSrcSet': 'https://s3-media3.fl.yelpcdn.com/bphoto/9aKNymymd9out1HSpkLuiA/180s.jpg '
@@ -188,30 +168,6 @@
                                            '2.87x',
                             'rating': 4.5,
                             'showRecommended': False},
- 'EvCy7HTNBvXhmebxnIRcQA': {'addressLines': ['66 Willoughby St',
-                                             'Brooklyn, NY 11201'],
-                            'businessUrl': '/biz/sticky-s-finger-joint-brooklyn?osq=Restaurants',
-                            'categories': [{'title': 'Chicken Wings',
-                                            'url': '/search?cflt=chicken_wings&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'},
-                                           {'title': 'Desserts',
-                                            'url': '/search?cflt=desserts&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'},
-                                           {'title': 'Salad',
-                                            'url': '/search?cflt=salad&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'}],
-                            'isAd': False,
-                            'name': 'Sticky’s Finger Joint',
-                            'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 12,
-                            'photoPageUrl': '/biz_photos/sticky-s-finger-joint-brooklyn?select=TqkCoQxAaputRafLk6fsnQ',
-                            'photoSrc': 'https://s3-media1.fl.yelpcdn.com/bphoto/TqkCoQxAaputRafLk6fsnQ/90s.jpg',
-                            'photoSrcSet': 'https://s3-media1.fl.yelpcdn.com/bphoto/TqkCoQxAaputRafLk6fsnQ/180s.jpg '
-                                           '2.00x,https://s3-media1.fl.yelpcdn.com/bphoto/TqkCoQxAaputRafLk6fsnQ/ms.jpg '
-                                           '1.11x,https://s3-media1.fl.yelpcdn.com/bphoto/TqkCoQxAaputRafLk6fsnQ/120s.jpg '
-                                           '1.33x,https://s3-media1.fl.yelpcdn.com/bphoto/TqkCoQxAaputRafLk6fsnQ/168s.jpg '
-                                           '1.87x,https://s3-media1.fl.yelpcdn.com/bphoto/TqkCoQxAaputRafLk6fsnQ/ls.jpg '
-                                           '2.78x,https://s3-media1.fl.yelpcdn.com/bphoto/TqkCoQxAaputRafLk6fsnQ/258s.jpg '
-                                           '2.87x',
-                            'rating': 3.5,
-                            'showRecommended': False},
  'Gk45Velc9dCg52popxrcFA': {'addressLines': ['216 Duffield St',
                                              'Brooklyn, NY 11201'],
                             'businessUrl': '/biz/kimoto-rooftop-brooklyn-5?osq=Restaurants',
@@ -244,7 +200,7 @@
                             'isAd': False,
                             'name': 'Xifu Food',
                             'neighborhoods': ['Boerum Hill'],
-                            'numReviews': 99,
+                            'numReviews': 100,
                             'photoPageUrl': '/biz_photos/xifu-food-brooklyn?select=SiWrJqq1wyIbUWFbhjgoXQ',
                             'photoSrc': 'https://s3-media3.fl.yelpcdn.com/bphoto/SiWrJqq1wyIbUWFbhjgoXQ/90s.jpg',
                             'photoSrcSet': 'https://s3-media3.fl.yelpcdn.com/bphoto/SiWrJqq1wyIbUWFbhjgoXQ/180s.jpg '
@@ -286,7 +242,7 @@
                             'isAd': False,
                             'name': 'Menya Jiro- Brooklyn',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 88,
+                            'numReviews': 89,
                             'photoPageUrl': '/biz_photos/menya-jiro-brooklyn-brooklyn-2?select=ZvpUbow2-XEMwChFmgxpuQ',
                             'photoSrc': 'https://s3-media1.fl.yelpcdn.com/bphoto/ZvpUbow2-XEMwChFmgxpuQ/90s.jpg',
                             'photoSrcSet': 'https://s3-media1.fl.yelpcdn.com/bphoto/ZvpUbow2-XEMwChFmgxpuQ/180s.jpg '
@@ -322,6 +278,26 @@
                                            '2.87x',
                             'rating': 4,
                             'showRecommended': False},
+ 'YFEXEGpAENp7it1HRlYS8w': {'addressLines': ['88 Livingston St',
+                                             'Brooklyn, NY 11201'],
+                            'businessUrl': '/biz/lavatera-grill-brooklyn-2?osq=Restaurants',
+                            'categories': [{'title': 'Mediterranean',
+                                            'url': '/search?cflt=mediterranean&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'}],
+                            'isAd': False,
+                            'name': 'Lavatera Grill',
+                            'neighborhoods': ['Brooklyn Heights'],
+                            'numReviews': 36,
+                            'photoPageUrl': '/biz_photos/lavatera-grill-brooklyn-2?select=KSHfKpq7GVv2fsrQhJ12fQ',
+                            'photoSrc': 'https://s3-media1.fl.yelpcdn.com/bphoto/KSHfKpq7GVv2fsrQhJ12fQ/90s.jpg',
+                            'photoSrcSet': 'https://s3-media1.fl.yelpcdn.com/bphoto/KSHfKpq7GVv2fsrQhJ12fQ/180s.jpg '
+                                           '2.00x,https://s3-media1.fl.yelpcdn.com/bphoto/KSHfKpq7GVv2fsrQhJ12fQ/ms.jpg '
+                                           '1.11x,https://s3-media1.fl.yelpcdn.com/bphoto/KSHfKpq7GVv2fsrQhJ12fQ/120s.jpg '
+                                           '1.33x,https://s3-media1.fl.yelpcdn.com/bphoto/KSHfKpq7GVv2fsrQhJ12fQ/168s.jpg '
+                                           '1.87x,https://s3-media1.fl.yelpcdn.com/bphoto/KSHfKpq7GVv2fsrQhJ12fQ/ls.jpg '
+                                           '2.78x,https://s3-media1.fl.yelpcdn.com/bphoto/KSHfKpq7GVv2fsrQhJ12fQ/258s.jpg '
+                                           '2.87x',
+                            'rating': 4,
+                            'showRecommended': False},
  'YgM7EmxT4acu8WeUH0FWYw': {'addressLines': ['156 Tillary St',
                                              'Brooklyn, NY 11201'],
                             'businessUrl': '/biz/ashland-brooklyn?osq=Restaurants',
@@ -330,7 +306,7 @@
                             'isAd': False,
                             'name': 'Ashland',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 7,
+                            'numReviews': 8,
                             'photoPageUrl': '/biz_photos/ashland-brooklyn?select=Vue9tBFL0mdw18ruP1XpWA',
                             'photoSrc': 'https://s3-media3.fl.yelpcdn.com/bphoto/Vue9tBFL0mdw18ruP1XpWA/90s.jpg',
                             'photoSrcSet': 'https://s3-media3.fl.yelpcdn.com/bphoto/Vue9tBFL0mdw18ruP1XpWA/180s.jpg '
@@ -350,7 +326,7 @@
                             'isAd': False,
                             'name': 'Han Dynasty',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 195,
+                            'numReviews': 196,
                             'photoPageUrl': '/biz_photos/han-dynasty-brooklyn-2?select=jUsPJdfrxs34X8u--VA-Og',
                             'photoSrc': 'https://s3-media4.fl.yelpcdn.com/bphoto/jUsPJdfrxs34X8u--VA-Og/90s.jpg',
                             'photoSrcSet': 'https://s3-media4.fl.yelpcdn.com/bphoto/jUsPJdfrxs34X8u--VA-Og/180s.jpg '
@@ -370,7 +346,7 @@
                             'isAd': False,
                             'name': 'Dekalb Market Hall',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 582,
+                            'numReviews': 583,
                             'photoPageUrl': '/biz_photos/dekalb-market-hall-brooklyn-2?select=8uY338Gbzs90jcFnPryZ-w',
                             'photoSrc': 'https://s3-media2.fl.yelpcdn.com/bphoto/8uY338Gbzs90jcFnPryZ-w/90s.jpg',
                             'photoSrcSet': 'https://s3-media2.fl.yelpcdn.com/bphoto/8uY338Gbzs90jcFnPryZ-w/180s.jpg '
@@ -418,7 +394,7 @@
                             'isAd': False,
                             'name': 'Pollo D’ Oro',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 218,
+                            'numReviews': 220,
                             'photoPageUrl': '/biz_photos/pollo-d-oro-downtown-brooklyn-2?select=poX0gnWyNQsoLVw2ZC1kOg',
                             'photoSrc': 'https://s3-media4.fl.yelpcdn.com/bphoto/poX0gnWyNQsoLVw2ZC1kOg/90s.jpg',
                             'photoSrcSet': 'https://s3-media4.fl.yelpcdn.com/bphoto/poX0gnWyNQsoLVw2ZC1kOg/180s.jpg '
@@ -464,7 +440,7 @@
                             'isAd': False,
                             'name': 'Circa Brewing',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 236,
+                            'numReviews': 238,
                             'photoPageUrl': '/biz_photos/circa-brewing-brooklyn-3?select=aJ93g6qT-iCKgAmi5l0RKw',
                             'photoSrc': 'https://s3-media1.fl.yelpcdn.com/bphoto/aJ93g6qT-iCKgAmi5l0RKw/90s.jpg',
                             'photoSrcSet': 'https://s3-media1.fl.yelpcdn.com/bphoto/aJ93g6qT-iCKgAmi5l0RKw/180s.jpg '
@@ -484,7 +460,7 @@
                             'isAd': False,
                             'name': 'Yaso Tangbao',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 698,
+                            'numReviews': 700,
                             'photoPageUrl': '/biz_photos/yaso-tangbao-brooklyn?select=AKGztA9MXJM3Ykd8Ofm36Q',
                             'photoSrc': 'https://s3-media3.fl.yelpcdn.com/bphoto/AKGztA9MXJM3Ykd8Ofm36Q/90s.jpg',
                             'photoSrcSet': 'https://s3-media3.fl.yelpcdn.com/bphoto/AKGztA9MXJM3Ykd8Ofm36Q/180s.jpg '
@@ -524,7 +500,7 @@
                             'isAd': False,
                             'name': 'French Louie',
                             'neighborhoods': ['Boerum Hill'],
-                            'numReviews': 336,
+                            'numReviews': 337,
                             'photoPageUrl': '/biz_photos/french-louie-boerum-hill?select=8mxpq3mYJnEzxi9wL0oCZA',
                             'photoSrc': 'https://s3-media1.fl.yelpcdn.com/bphoto/8mxpq3mYJnEzxi9wL0oCZA/90s.jpg',
                             'photoSrcSet': 'https://s3-media1.fl.yelpcdn.com/bphoto/8mxpq3mYJnEzxi9wL0oCZA/180s.jpg '
@@ -546,7 +522,7 @@
                             'isAd': False,
                             'name': 'Rocco’s Tacos &amp; Tequila Bar',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 1181,
+                            'numReviews': 1182,
                             'photoPageUrl': '/biz_photos/roccos-tacos-and-tequila-bar-brooklyn?select=UUBW-SUp1wjvY2x6cukcSw',
                             'photoSrc': 'https://s3-media2.fl.yelpcdn.com/bphoto/UUBW-SUp1wjvY2x6cukcSw/90s.jpg',
                             'photoSrcSet': 'https://s3-media2.fl.yelpcdn.com/bphoto/UUBW-SUp1wjvY2x6cukcSw/180s.jpg '
@@ -570,7 +546,7 @@
                             'isAd': False,
                             'name': 'Bonchon - Willoughby',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 69,
+                            'numReviews': 70,
                             'photoPageUrl': '/biz_photos/bonchon-willoughby-brooklyn?select=zcm-W8tLnQC8y4MSQU6-MA',
                             'photoSrc': 'https://s3-media1.fl.yelpcdn.com/bphoto/zcm-W8tLnQC8y4MSQU6-MA/90s.jpg',
                             'photoSrcSet': 'https://s3-media1.fl.yelpcdn.com/bphoto/zcm-W8tLnQC8y4MSQU6-MA/180s.jpg '
@@ -581,6 +557,54 @@
                                            '2.78x,https://s3-media1.fl.yelpcdn.com/bphoto/zcm-W8tLnQC8y4MSQU6-MA/258s.jpg '
                                            '2.87x',
                             'rating': 3.5,
+                            'showRecommended': False},
+ 'tO3pf-4mJsC5ZLTo0lbDIg': {'addressLines': ['311 Atlantic Ave',
+                                             'Brooklyn, NY 11201'],
+                            'businessUrl': '/biz/simple-nyc-downtown-brooklyn-brooklyn-2?osq=Restaurants',
+                            'categories': [{'title': 'Poke',
+                                            'url': '/search?cflt=poke&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'},
+                                           {'title': 'Asian Fusion',
+                                            'url': '/search?cflt=asianfusion&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'},
+                                           {'title': 'Pan Asian',
+                                            'url': '/search?cflt=panasian&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'}],
+                            'isAd': False,
+                            'name': 'Simple NYC-Downtown Brooklyn',
+                            'neighborhoods': ['Boerum Hill'],
+                            'numReviews': 61,
+                            'photoPageUrl': '/biz_photos/simple-nyc-downtown-brooklyn-brooklyn-2?select=dP9_oGLjZLB6_v5nnJ5Glw',
+                            'photoSrc': 'https://s3-media2.fl.yelpcdn.com/bphoto/dP9_oGLjZLB6_v5nnJ5Glw/90s.jpg',
+                            'photoSrcSet': 'https://s3-media2.fl.yelpcdn.com/bphoto/dP9_oGLjZLB6_v5nnJ5Glw/180s.jpg '
+                                           '2.00x,https://s3-media2.fl.yelpcdn.com/bphoto/dP9_oGLjZLB6_v5nnJ5Glw/ms.jpg '
+                                           '1.11x,https://s3-media2.fl.yelpcdn.com/bphoto/dP9_oGLjZLB6_v5nnJ5Glw/120s.jpg '
+                                           '1.33x,https://s3-media2.fl.yelpcdn.com/bphoto/dP9_oGLjZLB6_v5nnJ5Glw/168s.jpg '
+                                           '1.87x,https://s3-media2.fl.yelpcdn.com/bphoto/dP9_oGLjZLB6_v5nnJ5Glw/ls.jpg '
+                                           '2.78x,https://s3-media2.fl.yelpcdn.com/bphoto/dP9_oGLjZLB6_v5nnJ5Glw/258s.jpg '
+                                           '2.87x',
+                            'rating': 5,
+                            'showRecommended': False},
+ 'u28smPQyGqGUmT-R8sz_nw': {'addressLines': ['176 Atlantic Ave',
+                                             'Brooklyn, NY 11201'],
+                            'businessUrl': '/biz/yemen-cafe-and-restaurant-brooklyn-3?osq=Restaurants',
+                            'categories': [{'title': 'Middle Eastern',
+                                            'url': '/search?cflt=mideastern&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'},
+                                           {'title': 'Cafes',
+                                            'url': '/search?cflt=cafes&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'},
+                                           {'title': 'Soup',
+                                            'url': '/search?cflt=soup&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'}],
+                            'isAd': False,
+                            'name': 'Yemen Cafe &amp; Restaurant',
+                            'neighborhoods': ['Cobble Hill'],
+                            'numReviews': 454,
+                            'photoPageUrl': '/biz_photos/yemen-cafe-and-restaurant-brooklyn-3?select=hK_7Ac9vKgYU7w9GUZzEZA',
+                            'photoSrc': 'https://s3-media4.fl.yelpcdn.com/bphoto/hK_7Ac9vKgYU7w9GUZzEZA/90s.jpg',
+                            'photoSrcSet': 'https://s3-media4.fl.yelpcdn.com/bphoto/hK_7Ac9vKgYU7w9GUZzEZA/180s.jpg '
+                                           '2.00x,https://s3-media4.fl.yelpcdn.com/bphoto/hK_7Ac9vKgYU7w9GUZzEZA/ms.jpg '
+                                           '1.11x,https://s3-media4.fl.yelpcdn.com/bphoto/hK_7Ac9vKgYU7w9GUZzEZA/120s.jpg '
+                                           '1.33x,https://s3-media4.fl.yelpcdn.com/bphoto/hK_7Ac9vKgYU7w9GUZzEZA/168s.jpg '
+                                           '1.87x,https://s3-media4.fl.yelpcdn.com/bphoto/hK_7Ac9vKgYU7w9GUZzEZA/ls.jpg '
+                                           '2.78x,https://s3-media4.fl.yelpcdn.com/bphoto/hK_7Ac9vKgYU7w9GUZzEZA/258s.jpg '
+                                           '2.87x',
+                            'rating': 4.5,
                             'showRecommended': False},
  'uIwfm4otg88KAEWdpiYqIw': {'addressLines': ['81 Hoyt St',
                                              'Brooklyn, NY 11211'],
@@ -606,28 +630,6 @@
                                            '2.87x',
                             'rating': 4,
                             'showRecommended': False},
- 'w7dgFPw5wIUWwsCent3w4A': {'addressLines': ['90 Livingston St',
-                                             'Brooklyn, NY 11201'],
-                            'businessUrl': '/biz/piz-zetta-brooklyn-2?osq=Restaurants',
-                            'categories': [{'title': 'Italian',
-                                            'url': '/search?cflt=italian&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'},
-                                           {'title': 'Pizza',
-                                            'url': '/search?cflt=pizza&amp;find_desc=Restaurants&amp;l=g%3A-73.9982414246%2C40.6838924509%2C-73.9726638794%2C40.7034156679'}],
-                            'isAd': False,
-                            'name': 'Piz-zetta',
-                            'neighborhoods': ['Brooklyn Heights'],
-                            'numReviews': 245,
-                            'photoPageUrl': '/biz_photos/piz-zetta-brooklyn-2?select=9L4viDwAGx3obgYLnXMA6g',
-                            'photoSrc': 'https://s3-media1.fl.yelpcdn.com/bphoto/9L4viDwAGx3obgYLnXMA6g/90s.jpg',
-                            'photoSrcSet': 'https://s3-media1.fl.yelpcdn.com/bphoto/9L4viDwAGx3obgYLnXMA6g/180s.jpg '
-                                           '2.00x,https://s3-media1.fl.yelpcdn.com/bphoto/9L4viDwAGx3obgYLnXMA6g/ms.jpg '
-                                           '1.11x,https://s3-media1.fl.yelpcdn.com/bphoto/9L4viDwAGx3obgYLnXMA6g/120s.jpg '
-                                           '1.33x,https://s3-media1.fl.yelpcdn.com/bphoto/9L4viDwAGx3obgYLnXMA6g/168s.jpg '
-                                           '1.87x,https://s3-media1.fl.yelpcdn.com/bphoto/9L4viDwAGx3obgYLnXMA6g/ls.jpg '
-                                           '2.78x,https://s3-media1.fl.yelpcdn.com/bphoto/9L4viDwAGx3obgYLnXMA6g/258s.jpg '
-                                           '2.87x',
-                            'rating': 4.5,
-                            'showRecommended': False},
  'welfjXmBHjVBHYO4UTIVHA': {'addressLines': ['140 Lawrence St',
                                              'Brooklyn, NY 11201'],
                             'businessUrl': '/biz/koji-izakaya-brooklyn-3?osq=Restaurants',
@@ -640,7 +642,7 @@
                             'isAd': False,
                             'name': 'Koji Izakaya',
                             'neighborhoods': ['Downtown Brooklyn'],
-                            'numReviews': 36,
+                            'numReviews': 37,
                             'photoPageUrl': '/biz_photos/koji-izakaya-brooklyn-3?select=FFSrnuRH4xjA1ysBLBOoiA',
                             'photoSrc': 'https://s3-media3.fl.yelpcdn.com/bphoto/FFSrnuRH4xjA1ysBLBOoiA/90s.jpg',
                             'photoSrcSet': 'https://s3-media3.fl.yelpcdn.com/bphoto/FFSrnuRH4xjA1ysBLBOoiA/180s.jpg '
