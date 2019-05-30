@@ -3,11 +3,13 @@ import urllib.parse
 import re
 import os
 
-"""Instructions: Go to /Users/byungjooshin/Desktop/wip/reviewstats/reviewspider/reviewspider
-and run scrapy crawl yelp """
+"""
+Given a list of restaurant links, this scraper gets all the reviews and organizes them by 
+name
+"""
 
-class QuotesSpider(scrapy.Spider):
-    name = "yelp"
+class RestaurantSpider(scrapy.Spider):
+    name = "restaurant"
     response_directory = "../../response_files"
 
     def start_requests(self):
@@ -41,6 +43,7 @@ class QuotesSpider(scrapy.Spider):
             urls_to_hunt.append(URL)
             url_info = {}
             url_info['website'] = 'yelp'
+            url_info['type'] = 'restaurants'
             url_info['start_range'] = i
             url_info_list.append(url_info)
 

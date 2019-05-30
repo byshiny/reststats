@@ -12,7 +12,7 @@ const apiKey = propJson["api_key"]
 // console.log(apiKey)
 const searchRequest = {
   term:'restaurants',
-  location: '397 Bridge StBrooklyn, NY 11201'
+  location: '397 Bridge St Brooklyn, NY 11201'
 };
 
 const client = yelp.client(apiKey);
@@ -50,7 +50,7 @@ function getRestuarantsWithinRadius(searchReq){
 function getReviewForResturant(resturantName){
   const searchRequest = {
     term:'restuarant',
-    location: '397 Bridge StBrooklyn, NY 11201',
+    location: '397 Bridge St Brooklyn, NY 11201',
     radius: 1600
   };
 
