@@ -2,7 +2,7 @@ import scrapy
 import urllib.parse
 import re
 import os
-
+import json
 """
 Given a list of restaurant links, this scraper gets all the reviews and organizes them by 
 name
@@ -69,6 +69,10 @@ class RestaurantSpider(scrapy.Spider):
         filename = 'test-%s-%s.json' % (page, start_range)
         print(self.response_directory)
         path_to_save = os.path.join(self.response_directory, filename)
+
+        import json
+
+d = json.loads(j)
 
         with open(path_to_save, 'wb') as f:
             response_body = response.body

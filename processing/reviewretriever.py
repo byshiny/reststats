@@ -203,50 +203,15 @@ class ReviewSpider(scrapy.Spider):
       url_info['rest_directory'] = rest_directory
       url_info['rest_name'] = rest_name
 
-      indexes_to_parse = [80,
-              780,
-              980,
-              580,
-              600,
-              840,
-              860,
-              620,
-              660,
-              820,
-              800,
-              640,
-              680,
-              100,
-              120,
-              880,
-              480,
-              140,
-              720,
-              1000,
-              960,
-              560,
-              20,
-              540,
-              940,
-              700,
-              740,
-              40,
-              500,
-              900,
-              920,
-              60,
-              520,
-              760]
       
       for i in range(20, num_reviews, increment):
           # url = urls_to_hunt[i]
           # url_info = url_info_list[i]
-          if i in indexes_to_parse:
-            PARAMS['start'] = i
-            param_url_encoded = urllib.parse.urlencode(PARAMS)
-            url = self.anchor_url + "&" + param_url_encoded
-            url_info['start'] = i
-            yield scrapy.Request(url=url, callback=self.parse, meta=url_info)
+        PARAMS['start'] = i
+        param_url_encoded = urllib.parse.urlencode(PARAMS)
+        url = self.anchor_url + "&" + param_url_encoded
+        url_info['start'] = i
+        yield scrapy.Request(url=url, callback=self.parse, meta=url_info)
 
        
     def parse(self, response):
@@ -301,27 +266,31 @@ if __name__ == '__main__':
   
 
 #did 9 - 10, start with 10 - 11
-  # for file_idx in range(0, 16, 1):
-  #   filename = onlyfiles[file_idx]
-  #   if filename == "test-www.yelp.com-0.json":
-  #     continue
-  #   complete_path = os.path.join(reviewprocessor.response_directory, filename)
+  for file_idx in range(0, 16, 1):
+    filename = onlyfiles[file_idx]
+    if filename == "test-www.yelp.com-0.json":
+      continue
+    complete_path = os.path.join(reviewprocessor.response_directory, filename)
 
-  #   rest_name_and_url_df = reviewprocessor.get_restaurant_name_and_url_dataframe(complete_path)
-  #   process = CrawlerProcess({
-  #       'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
-  #     })
-  #   for index, row in rest_name_and_url_df.iterrows():
-  #     single_url = row['url']
-  #     name = row['name']
-  #     if index == 0:
-  #       continue
-  # process = CrawlerProcess({
-  #   'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
-  # })
+    rest_name_and_url_df = reviewprocessor.get_restaurant_name_and_url_dataframe(complete_path)
+    process = CrawlerProcess({
+        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
+      })
+    for index, row in rest_name_and_url_df.iterrows():
+      single_url = row['url']
+      name = row['name']
+      if index == 0:
+        continue
+  process = CrawlerProcess({
+    'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
+  })
 
-  #     process.crawl(ReviewSpider, anchor_url= single_url, rest_name = name)
-  # process.start() # the script will block here until the crawling is finished
+      process.crawl(ReviewSpider, anchor_url= single_url, rest_name = name)
+  process.start() # the script will block here until the crawling is finished
+
+
+  #This section of code is to deal with missing data - because if you're asking for 
+  #excessive requests your requests tend to get dropped
   missing_url = 'https://www.yelp.com/biz/julianas-pizza-brooklyn-5?osq=Restaurants'
   name = 'Juliana’s Pizza'
   crawl_one_url(missing_url, name)
